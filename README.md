@@ -3,7 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose_cassios)
 
 ![Cássios GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-cassios&cons=true&theme=merko)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jose-cassios&theme=merko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cassios&layout=compact)
+
 
 ## Technologies
 

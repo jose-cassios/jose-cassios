@@ -2,9 +2,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose_cassios)
 
-![Cássios GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-cassios&cons=true&theme=merko)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jose-cassios&theme=merko)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cassios&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-cassios&cons=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cassios&theme=merko&hide_border=true" height="150" alt="stats graph"/><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cassios&layout=compact&langs_count=6&theme=default" height="150" alt="stats graph" />
+</div>
+</p>
 
 
 ## Technologies

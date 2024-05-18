@@ -5,7 +5,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jose-cassios&cons=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cassios&theme=merko&hide_border=true" height="150" alt="stats graph"/><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jose-cassios&layout=compact&langs_count=6&theme=default" height="150" alt="stats graph" />
 </div>
 </p>
 

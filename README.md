@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose_cassios)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-cassios&cons=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-cassios&show_icons=true&rank_icon=github&cons=true&theme=merko&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cassios&theme=merko&hide_border=true" height="150" alt="stats graph"/><br>
 </div>
 </p>
